@@ -1,0 +1,9 @@
+{"name_": "Auto", "reference_": "https://www.autonews.ru", "links_catcher_": {"class": "item-big__link"}, "subcategories_": {"main": ""}}
+{"name_": "Sport", "reference_": "https://sportrbc.ru", "links_catcher_": {"class": "item__link"}, "subcategories_": {"main": "", "football": "/football", "hockey": "/hockey", "boxing": "/boxing", "skating": "/skating", "formula1": "/formula1", "other": "/other"}}
+{"name_": "Realty", "reference_": "https://realty.rbc.ru", "links_catcher_": {"class": "item__link"}, "subcategories_": {"main": "", "industry": "/industry", "city": "/city", "suburban": "/suburban", "design": "/design", "prices": "/prices", "opinion": "/opinion", "housing": "/housing", "actives": "/actives"}}
+{"name_": "Style", "reference_": "https://style.rbc.ru", "links_catcher_": {"class": "itmd_main__link"}, "subcategories_": {"main": "", "items": "/items", "beauty": "/beauty", "health": "/health", "impressions": "/impressions", "people": "/people", "life": "/life", "repost": "/repost"}}
+{"name_": "Trend", "reference_": "https://trends.rbc.ru", "links_catcher_": {"class": "item__title"}, "subcategories_": {"main": ""}}
+{"name_": "InvestAdvices", "reference_": "https://quote.rbc.ru/advice/", "links_catcher_": {"class": "q-item__link"}, "subcategories_": {"main": ""}}
+{"name_": "City", "reference_": "https://www.rbc.ru/gorod", "links_catcher_": {"class": "item__link"}, "subcategories_": {"main": ""}}
+{"name_": "Discussion club", "reference_": "https://www.rbc.ru/dc", "links_catcher_": {"class": "item__link"}, "subcategories_": {"main": ""}}
+{"name_": "Crypto", "reference_": "https://www.rbc.ru/crypto", "links_catcher_": {"class": "item__link"}, "subcategories_": {"main": ""}}
