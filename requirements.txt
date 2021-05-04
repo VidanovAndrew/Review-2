@@ -1,0 +1,11 @@
+sqlite3==3.31.1
+requests
+datetime
+bs4
+pydantic
+html
+logging
+telegram
+telegram.ext
+collections
+lxml
